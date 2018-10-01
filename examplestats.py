@@ -1,4 +1,3 @@
-%cd D:\cygwin64\home\Valentine\md_for_analysis\
 
 ########################
 #        imports       #
